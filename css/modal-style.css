@@ -1,0 +1,74 @@
+div.hoverscroll{position:relative}div.hoverscroll div.listcontainer{overflow:hidden}div.hoverscroll div.fixed-listcontainer{overflow:hidden;float:left}div.hoverscroll ul.list{list-style:none;margin:0;padding:0}div.hoverscroll ul.list li.item{display:block;padding:0}div.hoverscroll.horizontal ul.list li.item{float:left}div.hoverscroll.horizontal.rtl ul.list li.item{float:right}div.hoverscroll div.arrow{position:absolute;float:none;background-color:#ccc;background-position:center;background-repeat:no-repeat;opacity:.8}div.hoverscroll div.fixed-arrow{display:block;float:left;background-color:#ccc;background-position:center;background-repeat:no-repeat}div.hoverscroll div.arrow.left,div.hoverscroll div.arrow.right,div.hoverscroll div.fixed-arrow.left,div.hoverscroll div.fixed-arrow.right{top:0;width:40px;height:100%}div.hoverscroll div.arrow.left,div.hoverscroll div.fixed-arrow.left{left:0;background-image:url(gfx/arrow-left-small.png)}div.hoverscroll div.arrow.right,div.hoverscroll div.fixed-arrow.right{right:0;background-image:url(gfx/arrow-right-small.png)}div.hoverscroll div.arrow.bottom,div.hoverscroll div.arrow.top,div.hoverscroll div.fixed-arrow.bottom,div.hoverscroll div.fixed-arrow.top{left:0;width:100%;height:40px}div.hoverscroll div.arrow.top,div.hoverscroll div.fixed-arrow.top{top:0;background-image:url(gfx/arrow-up-small.png)}div.hoverscroll div.arrow.bottom,div.hoverscroll div.fixed-arrow.bottom{bottom:0;background-image:url(gfx/arrow-down-small.png)}
+/* CUSTOM CSS STARTS */
+ .img-slider-small { height: 80px; width: 80px; }
+  .displayImageBox {  }
+  .row-fixed-height {  
+    overflow: hidden;
+    width: 568px;
+    height: 320px;
+    position: relative;
+  }
+  .display-container  
+  {  width: 478px;
+    height: 320px;
+    inset: 0px 0px 0px auto;
+    position: absolute;
+}
+.thumb-container {
+inset: 0px auto 0px 0px;
+position: absolute;
+}
+.sliderbox {
+    width: 82px;
+    height: 100%;
+}
+.sliderbox-child {
+    width: 82px;
+    height: 710px;
+}
+.displayImageBox {
+    width: 100%;
+    height: 100%;
+}
+.img.img-fluid.img-big-display { height: 100%; width: 100%; }
+.cls_preloader { text-align: center; margin-bottom: 50px; margin-top: 50px; }
+.img-lightbox {
+    width: 100%;
+    height: 100%;
+}
+.nav-lightbox.left-slider-img {
+    color: #fff;
+    font-size: 50px;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    font-weight: bold;
+}
+.nav-lightbox.right-slider-img {
+    color: #fff;
+    font-size: 50px;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    font-weight: bold;
+}
+.cancel-btn-modal button {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  font-size: 38px;
+  color: #fff;
+  opacity: 1;
+}
+.img-box-child.item {
+    cursor: pointer;
+}
+.img-box-child.item:hover {
+    opacity: .2;
+}
+.nav-lightbox { cursor: pointer; }
+.img-box-child.item {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 1px solid #333;
+}
