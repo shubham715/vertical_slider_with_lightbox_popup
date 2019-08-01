@@ -16,7 +16,8 @@ You can directly download files or can clone with git and run index.php file to 
 
 
 ## Screenshots of Slider
-1. Vertical image slider (vertical_slider_demo1_shubham715.png)
+1. Vertical image slider 
+![](vertical_slider_demo1_shubham715.png)
 
 2. Modal Popup
 ![](vertical_slider_demo2_shubham715.png)
@@ -24,7 +25,7 @@ You can directly download files or can clone with git and run index.php file to 
 That's it.
 
 ## About Me
-My name is Shubham and I'm a freelancer PHP and js developer and designer. I love coffee and play the games. **Hire me!**
+My name is Shubham and you can find me by "shubham715" and I'm a freelancer PHP and js developer and designer. I love coffee and play the games. **Hire me!**
 
 🌎 Web: [https://sites.google.com/view/shubham715/home](https://sites.google.com/view/shubham715/home)
 🌎 Web: [https://thecoderain.blogspot.com](https://thecoderain.blogspot.com)
