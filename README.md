@@ -13,9 +13,9 @@ For clear information please check screenshots :)
 
 ## Installation
 You can directly download files or can clone with git and run index.php file to see demo. If you want to change images then please go to img folder and replace images there.
-```
 
-### Screenshots of Slider
+
+## Screenshots of Slider
 1. Vertical image slider (vertical_slider_demo1_shubham715.png)
 
 2. Modal Popup
@@ -26,6 +26,7 @@ That's it.
 ## About Me
 My name is Shubham and I'm a freelancer PHP and js developer and designer. I love coffee and play the games. **Hire me!**
 
+🌎 Web: [https://sites.google.com/view/shubham715/home](https://sites.google.com/view/shubham715/home)
 🌎 Web: [https://thecoderain.blogspot.com](https://thecoderain.blogspot.com)
 
 ✉️ Email: [shubhamsharma715@gmail.com](mailto:shubhamsharma715@gmail.com)
