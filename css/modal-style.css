@@ -4,20 +4,11 @@ div.hoverscroll{position:relative}div.hoverscroll div.listcontainer{overflow:hid
   .displayImageBox {  }
   .row-fixed-height {  
     overflow: hidden;
-    width: 568px;
-    height: 320px;
+    width: 578px;
     position: relative;
   }
-  .display-container  
-  {  width: 478px;
-    height: 320px;
-    inset: 0px 0px 0px auto;
-    position: absolute;
-}
-.thumb-container {
-inset: 0px auto 0px 0px;
-position: absolute;
-}
+  .display-container    {  width: 468px; float: left;}
+.thumb-container {float: left; width: 90px;}
 .sliderbox {
     width: 82px;
     height: 100%;
@@ -30,7 +21,7 @@ position: absolute;
     width: 100%;
     height: 100%;
 }
-.img.img-fluid.img-big-display { height: 100%; width: 100%; }
+.img.img-fluid.img-big-display { height: 340px; width: 100%; object-fit: cover; }
 .cls_preloader { text-align: center; margin-bottom: 50px; margin-top: 50px; }
 .img-lightbox {
     width: 100%;
